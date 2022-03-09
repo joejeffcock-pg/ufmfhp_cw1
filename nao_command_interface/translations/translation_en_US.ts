@@ -29,6 +29,118 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Diagram/Day high</name>
+        <message>
+            <source>How was your day?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">How was your day?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Day low</name>
+        <message>
+            <source>How was your day. Good or Bad</source>
+            <comment>Text</comment>
+            <translation type="obsolete">How was your day. Good or Bad</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Day med</name>
+        <message>
+            <source>Was your day good?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Was your day good?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Goodbye</name>
+        <message>
+            <source>Thank you very much for talking with me. Have a good day</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Thank you very much for talking with me. Have a good day</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Greeting</name>
+        <message>
+            <source>Hello, my name is Nao and I'd love to ask you a few questions</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Hello, my name is Nao and I'd love to ask you a few questions</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Lunch high</name>
+        <message>
+            <source>How was your lunch?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">How was your lunch?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Lunch low</name>
+        <message>
+            <source>How was your lunch. Good or Bad</source>
+            <comment>Text</comment>
+            <translation type="obsolete">How was your lunch. Good or Bad</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Lunch med</name>
+        <message>
+            <source>Was your lunch good?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Was your lunch good?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Response negative</name>
+        <message>
+            <source>I'm sorry to hear that</source>
+            <comment>Text</comment>
+            <translation type="obsolete">I'm sorry to hear that</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Response neutral</name>
+        <message>
+            <source>oh ok</source>
+            <comment>Text</comment>
+            <translation type="obsolete">oh ok</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Response positive</name>
+        <message>
+            <source>That's good to hear</source>
+            <comment>Text</comment>
+            <translation type="obsolete">That's good to hear</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Weather high</name>
+        <message>
+            <source>How is the weather?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">How is the weather?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Weather low</name>
+        <message>
+            <source>Is the weather good or bad?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Is the weather good or bad?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Diagram/Weather med</name>
+        <message>
+            <source>Is the weather good?</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Is the weather good?</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Goodbye</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
