@@ -4,10 +4,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Day high</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>How was your day?</source>
             <comment>Text</comment>
-            <translation type="unfinished">How was your day?</translation>
+            <translation type="obsolete">How was your day?</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>How has your day been so far?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">How has your day been so far?</translation>
         </message>
     </context>
     <context>
@@ -27,10 +32,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Day med</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was your day good?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was your day good?</translation>
+            <translation type="obsolete">Was your day good?</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Has your day been good so far?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Has your day been good so far?</translation>
         </message>
     </context>
     <context>
@@ -255,6 +265,16 @@
             <source>Hello</source>
             <comment>Text</comment>
             <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <source>Noooooooo, please don't turn me off</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Noooooooo, please don't turn me off</translation>
+        </message>
+        <message>
+            <source>Blerghalergh</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Blerghalergh</translation>
         </message>
     </context>
     <context>
