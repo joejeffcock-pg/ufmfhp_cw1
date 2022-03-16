@@ -13,10 +13,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Day low</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>How was your day. Good or Bad</source>
             <comment>Text</comment>
-            <translation type="unfinished">How was your day. Good or Bad</translation>
+            <translation type="obsolete">How was your day. Good or Bad</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Good or bad, how has your day been so far?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Good or bad, how has your day been so far?</translation>
         </message>
     </context>
     <context>
@@ -159,6 +164,33 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Journey high</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>How was your journey in today?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">How was your journey in today?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Journey low</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Good or bad, how was your journey here?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Good or bad, how was your journey here?</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Journey med</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Was your journey good?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Was your journey good?</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Lunch high</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -170,10 +202,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Lunch low</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>How was your lunch. Good or Bad</source>
             <comment>Text</comment>
-            <translation type="unfinished">How was your lunch. Good or Bad</translation>
+            <translation type="obsolete">How was your lunch. Good or Bad</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Good or bad, how was your lunch</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Good or bad, how was your lunch</translation>
         </message>
     </context>
     <context>
@@ -232,10 +269,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Weather low</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Is the weather good or bad?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Is the weather good or bad?</translation>
+            <translation type="obsolete">Is the weather good or bad?</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Good or bad, how is the weather today?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Good or bad, how is the weather today?</translation>
         </message>
     </context>
     <context>
