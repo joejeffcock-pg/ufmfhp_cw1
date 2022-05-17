@@ -1,0 +1,20 @@
+No.,pre,day,weather,lunch,journey,post,Complexity,Keyword,Questions,len(q1),len(q2),len(q3),len(q4),len(q1+...+q4),Total length (s),Start (s),Vid length (s),Include in data,Recording,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Intellect,,Robot,Conversation,,First Question,First response
+1,,,,,,,None,,,,,,,,,,,No,No,11,13,14,7,12,,31,18,,1,0
+2,ok,"Yes its been good, how about yours?",No its not very good,Er I've not eaten lunch yet,Yes it was good,,Medium,3,1,7,5,6,4,22,0:40,0:03,0:43,Yes,Yes,12,13,9,16,15,,35,25,,0,1
+3,sure,Moderately ok,Bad,Not great,Pretty good,cheers,Low,1,0,2,1,2,2,7,0:40,0:13,0:53,Yes,Yes,9,16,4,18,17,,36,22,,2,1
+4,,"Yes, but very busy",No its cold today,"Yes, it was very spicy","Er, yeah",,Medium,0,0,4,4,5,2,15,0:34,0:10,0:44,No,Yes,8,15,12,9,20,,36,21,,2,-2
+5,That is scary as fuck,"er, its been pretty great","oh, the weather is quite good","erm, i enjoyed my lunch yes","It was ok, mhm",,Medium,1,0,5,6,6,4,21,0:43,0:05,0:48,Yes,Yes,15,13,10,8,16,,35,19,,-1,0
+6,,"erm beautiful, we won a competition this morning ","You're not answering my question, thats not very nice, oh ok, the weather, cloudy","erm, fast, really fast","My journey, oh, it was pretty nice actually i really love england, what about you?",,Low,0,1,8,14,4,15,41,1:06,5:07,6:13,Yes,Yes,17,17,18,5,17,,27,17,,2,-2
+7,,"erm, tiring",sunny,"er, delicious","erm, it was great thank you",thank you,High,0,0,2,1,2,6,11,0:41,0:18,0:59,Yes,Yes,13,16,14,14,15,,41,25,,0,-1
+8,,really bad,it was really nice,it was really good,,thank you,High,1,0,2,4,4,0,10,0:39,0:11,0:50,Yes,Yes,7,15,13,12,15,,31,25,,-2,1
+9,,,,,,,High,0,0,0,0,0,0,0,0,0,0,Yes,No,11,15,12,11,12,,32,20,,-1,1
+10,Hello,"yeah its been good, fairly stressful, but we're slowly moving","its a little bit too hot for me personally, but yeah im enjoying it","im a student, i haven't had lunch yet","yeah it was very easy, i was just working downstairs",,Low,1,0,10,14,8,10,42,0:45,0:12,0:57,Yes,Yes,15,15,14,10,15,,38,25,,-1,2
+11,sure,neither good nor bad,neither good nor bad,good,uh good,,Low,4,0,4,4,1,2,11,0:40,0:23,1:03,Yes,Yes,16,17,16,13,19,,25,21,,-1,0
+12,,"uh, its been good, yeah.",uh the weather's kind of cloudy and a bit cold,yeah my lunch was nice but a bit expensive,"oh, yeah i walked here, my journey was good",,Low,2,0,5,10,9,9,33,0:52,0:08,1:00,Yes,Yes,14,20,17,14,20,,30,23,,2,1
+13,go for it,"not as productive as i'd like, but we're getting there","not particularly, its quite cloudy","yeah, pretty standard, meal deal","yeah it was alright, thank you",and you,Medium,0,0,10,5,5,6,26,0:37,0:01,0:38,Yes,Yes,15,17,6,15,16,,30,25,,1,0
+14,,"yeah, its been okay.","uh, it could be better, but its okay","yeah, it was pretty nice","uh, yes.",,Medium,0,0,4,8,5,2,19,0:40,0:13,0:53,Yes,Yes,12,13,13,10,14,,30,21,,0,2
+15,,"uh its been quite stressful, um i got a lot on, so its, its been stressful but its quite fulfilling",quite gray. um. its classic british weather. that's the only way i can describe it,i asked for more sweet chilli in my wrap and it was a big mistake. it was too,"my journey was good, it was a little bit annoying, um dealing with other people on the road, but other than that, it was fine",,High,1,0,20,15,18,25,78,1:00,0:01,1:01,Yes,Yes,12,10,8,15,17,,32,20,,0,0
+16,,"uh relaxed, feeling quite tired so taking it easy","uh its kind of gray and cloudy at the moment, but pleasant temperature","uh it was chicken mayo sandwich, it was okay","oh it was alright, i took the voi scooters, and it was fairly simple",,High,0,0,9,13,9,14,45,0:53,0:11,1:04,Yes,Yes,10,15,14,8,19,,28,20,,1,0
+17,,"uh yes, it has, getting stuff done","its a bit gray, but it could get better","it was somewhat okay, yes","my journey was okay i guess, yeah",,Medium,0,0,7,9,5,7,28,0:42,0:01,0:43,Yes,Yes,11,16,11,7,16,,32,19,,1,1
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

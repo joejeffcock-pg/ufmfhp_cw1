@@ -1,0 +1,25 @@
+( groups and graphs to show )
+groups:
+- extravertedness
+- maximum trait of big5 (significant ftr)
+- complexity
+- realised controlling (N=2 not great)
+
+result:
+- godspeed scores
+- perceived intelligence
+- drop in intelligence
+- word count
+- duration
+- keyword
+
+hist (extravert pop)
+boxplot, (percvd int/complexity) - literally the result
+bargraph piechart, (keyword/complexity) - application
+group bargraph, (word count/duration for each complexity) - show interaction/flow convo
+boxplot (some big5/percv int) - counter example
+
+covariance(big5, complexity to everything and then choose) 
+
+check Y normality for correct parametrifc check paramtricness parameter ness test ttest mr walls test man whitney u test
+for each, calc p-value cohen's d
